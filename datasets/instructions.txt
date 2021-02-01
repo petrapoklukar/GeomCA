@@ -1,0 +1,22 @@
+Download the representations from the provided link:
+multiview_box/
+	epsilon_siamese_Df.pkl
+	epsilon_simCLR_Df.pkl
+	siamese_Df_holdout.pkl
+	siamese_Df_train.pkl
+	siamese_Dm_holdout.pkl
+	siamese_Dm_train.pkl
+	simCLR_Df_holdout.pkl
+	simCLR_Df_train.pkl
+stylegan/
+	stylegan_truncation0.0_5000representations.pkl
+	...
+	stylegan_truncation1.0_5000representations.pkl
+vgg16/
+	version1/
+		Efeatures.pkl
+		Rfeatures.pkl
+	version2/
+		Efeatures.pkl
+		Rfeatures.pkl
+
