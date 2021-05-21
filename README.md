@@ -92,7 +92,7 @@ which should appear in the file "problematic_overlap_network_stats.txt" in folde
 ## Reproducing experiments from the paper
 ### Datasets
 
-Download the representations used in the experiments: [GeomCA datasets]() [Added upon publication] and place in "datasets/" folder. We provide all the representations used in multiview box experiment (Section 4) and VGG16 experiment (Section 6). For stylegan, we provide a smaller dataset containing 5000 representations in each of the sets, used in robustness and complexity analysis experiments (Appendix 8.2). 
+Download the representations used in the experiments:[GeomCA datasets](https://drive.google.com/drive/folders/1Vi14jZyRddK-LQW6CoFnyhYoo-vBowjM?usp=sharing) and place in "datasets/" folder. We provide all the representations used in multiview box experiment (Section 4) and VGG16 experiment (Section 6). For stylegan, we provide a smaller dataset containing 5000 representations in each of the sets, used in robustness and complexity analysis experiments (Appendix 8.2). 
 
 ### Experiments
 
