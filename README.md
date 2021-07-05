@@ -1,5 +1,16 @@
 # Geometric Component Analysis (GeomCA)
-Official Python implementation of the algorithm presented in the paper  "[GeomCA: Geometric Evaluation of Data Representations]()".
+Official Python implementation of the algorithm presented in the paper  "[GeomCA: Geometric Evaluation of Data Representations]()". If you use this code in your work, please cite it as follows:
+
+## Bibtex
+
+```
+@article{poklukar2021geomca,
+  title={GeomCA: Geometric Evaluation of Data Representations},
+  author={Poklukar, Petra and Varava, Anastasia and Kragic, Danica},
+  journal={arXiv preprint arXiv:2105.12486},
+  year={2021}
+}
+```
 
 ## Getting started
 ### Setup
