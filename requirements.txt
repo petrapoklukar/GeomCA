@@ -1,51 +1,57 @@
-absl-py @ file:///tmp/build/80754af9/absl-py_1607439979954/work
+absl-py==0.11.0
 astor==0.8.1
-certifi==2020.12.5
+certifi==2021.5.30
 cffi==1.14.0
-chardet @ file:///tmp/build/80754af9/chardet_1605303159953/work
-cryptography @ file:///tmp/build/80754af9/cryptography_1607635305226/work
+chardet==3.0.4
+cryptography==3.3.1
 cycler==0.10.0
-decorator @ file:///home/ktietz/src/ci/decorator_1611930055503/work
-gast @ file:///tmp/build/80754af9/gast_1597433534803/work
+decorator==4.4.2
+gast==0.4.0
 google-pasta==0.2.0
-grpcio @ file:///tmp/build/80754af9/grpcio_1597424467487/work
+grpcio==1.31.0
 gudhi==3.0.0
-h5py @ file:///tmp/build/80754af9/h5py_1593454119955/work
+h5py==2.10.0
+hdbscan==0.8.27
 idna==2.7
-importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
-joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1607956439537/work
-Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+importlib-metadata==2.0.0
+joblib==1.0.0
+Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
-kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1604014532738/work
+kiwisolver==1.3.0
 llvmlite==0.34.0
-Markdown @ file:///tmp/build/80754af9/markdown_1605111062842/work
+Markdown==3.3.3
 matplotlib==3.1.3
 mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
-networkx @ file:///tmp/build/80754af9/networkx_1594377231366/work
-numba @ file:///home/conda/feedstock_root/build_artifacts/numba_1599084798687/work
+networkx==2.4
+numba==0.51.2
 numpy==1.18.1
 olefile==0.46
 Pillow==7.0.0
+pip==20.3.3
 protobuf==3.13.0
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
-pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
-PySocks @ file:///tmp/build/80754af9/pysocks_1594394576006/work
-python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pycparser==2.20
+pydantic==1.8.2
+pyOpenSSL==20.0.1
+pyparsing==2.4.7
+PySocks==1.7.1
+python-dateutil==2.8.1
 requests==2.20.0
-scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1598376882706/work
+scikit-learn==0.23.2
 scipy==1.4.1
-six @ file:///tmp/build/80754af9/six_1605205313296/work
+setuptools==52.0.0.post20210125
+six==1.15.0
 tensorboard==1.14.0
 tensorflow==1.14.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
-threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
-tornado @ file:///tmp/build/80754af9/tornado_1606942283357/work
-umap-learn @ file:///home/conda/feedstock_root/build_artifacts/umap-learn_1593739701321/work
+threadpoolctl==2.1.0
+tornado==6.1
+typing-extensions==3.10.0.0
+umap-learn==0.4.6
 urllib3==1.23
-Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+Werkzeug==1.0.1
+wheel==0.36.2
 wrapt==1.12.1
-zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
+zipp==3.4.0
