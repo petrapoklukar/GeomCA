@@ -212,8 +212,8 @@ class GeomCA():
     
     def log_network_stats(self):
         """Saves network statistics."""
-        precision = self.network_stats_logger['num_R_points_in_qualitycomp']/self.R_pts_idx
-        recall = self.network_stats_logger['num_E_points_in_qualitycomp']/self.E_pts_idx
+        precision = self.network_stats_logger['num_E_points_in_qualitycomp']/self.E_pts_idx
+        recall = self.network_stats_logger['num_R_points_in_qualitycomp']/self.R_pts_idx
         self.network_stats_logger['precision'] = precision
         self.network_stats_logger['recall'] = recall
         network_consistency, network_quality = self.get_network_consistency_and_quality()
